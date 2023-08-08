@@ -220,6 +220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _flashImage: {fileID: 1483098734}
+  _newColor: {r: 0, g: 1, b: 0.13491154, a: 1}
 --- !u!4 &759168767
 Transform:
   m_ObjectHideFlags: 0
